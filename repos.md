@@ -1,2 +1,4 @@
 - zhongl/config-annotation
 - zhongl/akka-stream-netty
+- zhongl/akka-stream-oauth2
+- zhongl/passport
