@@ -15,3 +15,4 @@ jobs:
           github-token: ${{ secrets.ADMIN_GITHUB_TOKEN }}
           author-email: zhong.lunfu@gmail.com
           github-repository: zhongl/akka-stream-netty
+          repos-file: './repos.md'
