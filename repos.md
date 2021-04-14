@@ -1,4 +1,4 @@
-- zhongl/config-annotation
-- zhongl/akka-stream-netty
-- zhongl/akka-stream-oauth2
-- zhongl/passport
+- hanabix/config-annotation
+- hanabix/akka-stream-netty
+- hanabix/akka-stream-oauth2
+- hanabix/passport
