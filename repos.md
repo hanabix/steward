@@ -2,3 +2,4 @@
 - hanabix/akka-stream-netty
 - hanabix/akka-stream-oauth2
 - hanabix/passport
+- hanabix/webot
