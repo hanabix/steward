@@ -3,3 +3,4 @@
 - hanabix/akka-stream-oauth2
 - hanabix/passport
 - hanabix/webot
+- hanabix/captabula
